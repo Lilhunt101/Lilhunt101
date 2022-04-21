@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Liliana
+- 👀 I’m interested in connecting with ServiceNow professionals
+- 🌱 I’m currently learning about the technology myself and its applications in businesses in order to add value to your career
+- 💞️ I’m looking to collaborate with professionals in the field in Europe and learn about what challenges your are facing in the industry as a developer or architect.
+- 📫 You can reach me at liliana@alldus.com or by phone +49 69 50607635 (DE) or +33 2 56 83 50 07 (FR) from 9:30 to 18:30CET.
